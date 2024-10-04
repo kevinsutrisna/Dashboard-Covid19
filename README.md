@@ -7,6 +7,7 @@ The project involves creating a COVID-19 dashboard using Looker that displays da
 ## Table of Contents
 
 - [Features](#features)
+- [Usage](#Usage)
 - [Sources](#Sources)
 
 ---
@@ -16,6 +17,12 @@ The project involves creating a COVID-19 dashboard using Looker that displays da
 - **Real-time data viewing**: The dashboard allows users to see real-time data.
 - **Country-specific filtering**: Users can select which country's data they want to view.
 - **Severity classification results**: Users can view the results of the classification of fatality severity in the selected country.
+
+---
+
+## Usage Instructions
+- Open the dashboard by navigating to the provided link.
+- Use the filters to select the desired country and view real-time data.
 
 ---
 
