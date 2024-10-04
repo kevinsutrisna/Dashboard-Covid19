@@ -21,6 +21,6 @@ The project involves creating a COVID-19 dashboard using Looker that displays da
 
 ## Sources
 
-Link [Dashboard](https://lookerstudio.google.com/u/0/reporting/cfd0450a-491a-440c-8111-806b16044252/page/k0T1D).
-Link [Google Colab](https://colab.research.google.com/drive/1XaKN11FSthJpDIrMjuCSGjlyO4xskufr?usp=sharing)
-Link [Excel](https://colab.research.google.com/drive/1XaKN11FSthJpDIrMjuCSGjlyO4xskufr?usp=sharing)
+- Link [Dashboard](https://lookerstudio.google.com/u/0/reporting/cfd0450a-491a-440c-8111-806b16044252/page/k0T1D).
+- Link [Google Colab](https://colab.research.google.com/drive/1XaKN11FSthJpDIrMjuCSGjlyO4xskufr?usp=sharing)
+- Link [Excel](https://colab.research.google.com/drive/1XaKN11FSthJpDIrMjuCSGjlyO4xskufr?usp=sharing)
