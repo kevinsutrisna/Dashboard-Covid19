@@ -20,7 +20,7 @@ The project involves creating a COVID-19 dashboard using Looker that displays da
 
 ---
 
-## Usage Instructions
+## Usage
 - Open the dashboard by navigating to the provided link.
 - Use the filters to select the desired country and view real-time data.
 
