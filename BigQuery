@@ -1,0 +1,15 @@
+SELECT
+  EXTRACT(YEAR FROM date) AS year,
+  EXTRACT(MONTH FROM date) AS month,
+  FORMAT_DATE('%Y-%m-01', date) AS year_month,
+  iso_code,
+  SUM(daily_vaccinations_raw) AS total_daily_people_vaccinated
+FROM
+  `c-project-354815.Vaccination_type.Date`
+WHERE
+  daily_vaccinations_raw IS NOT NULL
+  AND NOT REGEXP_CONTAINS(iso_code, r'^OWID')
+GROUP BY
+  year, month, year_month, iso_code
+ORDER BY
+  year_month, iso_code;
